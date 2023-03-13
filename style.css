@@ -1,0 +1,25 @@
+.product{
+   width: 25%;
+    padding-top:10px ; 
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+
+    margin: 10px 20px 30px 40px;
+    border: 20px groove dodgerblue;
+
+
+
+
+}
+.img{
+    width: 100%;
+}
+p{
+    color: blueviolet;
+    
+}
+.flex-container{
+    text-align: center;
+    background-color: dodgerblue;
+}
